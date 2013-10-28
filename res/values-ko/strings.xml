@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="post_title">제목</string>
+    <string name="post_content">내용</string>
+    <string name="setting_title">설정</string>
+    <string name="setting_address">XML-RPC 주소</string>
+    <string name="setting_id">유저명</string>
+    <string name="setting_pw">비밀번호</string>
+    <string name="menu_write">작성</string>
+    <string name="menu_settings">설정</string>
+    <string name="toast_saved">설정 저장됨</string>
+    <string name="toast_success">작성 성공</string>
+    <string name="toast_fail">작성 실패\n인터넷 환경, 설정을 확인하세요</string>
+    <string name="toast_enter_title">제목을 입력하세요</string>
+    <string name="toast_enter_content">내용을 입력하세요</string>
+    
+</resources>

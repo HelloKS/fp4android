@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/layout_root" android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:padding="10dp">
+	<EditText
+	    android:id="@+id/address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+		android:inputType="text"
+		android:singleLine="true"
+		android:hint="@string/setting_address"
+		android:textColor="@android:color/black"/>
+	<EditText
+	    android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+		android:inputType="text"
+		android:singleLine="true"
+		android:hint="@string/setting_id"
+		android:textColor="@android:color/black"/>
+	<EditText
+	    android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+		android:inputType="textPassword"
+		android:singleLine="true"
+		android:hint="@string/setting_pw"
+		android:textColor="@android:color/black"/>
+</LinearLayout>

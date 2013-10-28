@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlatPress</string>
+    <string name="post_title">Title</string>
+    <string name="post_content">Content</string>
+    <string name="setting_title">Setting</string>
+    <string name="setting_address">XML-RPC address</string>
+    <string name="setting_id">Username</string>
+    <string name="setting_pw">Password</string>
+    <string name="menu_write">Write</string>
+    <string name="menu_settings">Settings</string>
+    <string name="toast_saved">Setting saved</string>
+    <string name="toast_success">Write success</string>
+    <string name="toast_fail">Write failed\nCheck your internet connection or setting.</string>
+    <string name="toast_enter_title">Title cannot be empty</string>
+    <string name="toast_enter_content">Content cannot be empty</string>
+
+</resources>
